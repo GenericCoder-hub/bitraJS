@@ -66,8 +66,11 @@ const burger = {
     type : 'img'
 }
 
-## remember that to have something render (as of now) you need to put the variable in the list in b.render
+### remember that to have something render (as of now) you need to put the variable in the list in b.render
 
-## to have the loop, you need:
+ to have the loop, you need:
 
 requestAnimationFrame(update);
+
+you need to host somewhere, use python or smthn.
+
